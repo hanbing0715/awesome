@@ -11,3 +11,4 @@
 - [influxdb](https://github.com/influxdata/influxdb)
 - [kcptun](https://github.com/xtaci/kcptun)
 - [gobgp](https://github.com/osrg/gobgp)
+- [coredns](https://github.com/coredns/coredns)
