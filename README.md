@@ -17,3 +17,7 @@
 
 - [proxysql](https://github.com/sysown/proxysql)
 - [kea](https://github.com/isc-projects/kea)
+
+## Python
+
+- [netbox](https://github.com/netbox-community/netbox)
