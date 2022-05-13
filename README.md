@@ -12,3 +12,8 @@
 - [kcptun](https://github.com/xtaci/kcptun)
 - [gobgp](https://github.com/osrg/gobgp)
 - [coredns](https://github.com/coredns/coredns)
+
+## C/C++
+
+- [proxysql](https://github.com/sysown/proxysql)
+- [kea](https://github.com/isc-projects/kea)
